@@ -1,0 +1,20 @@
+services:
+  customerwebapi:
+    image: ${DOCKER_REGISTRY-}customerwebapi
+    build:
+      context: .
+      dockerfile: CustomerWebApi/Dockerfile
+
+  productwebapi:
+    image: ${DOCKER_REGISTRY-}productwebapi
+    build:
+      context: .
+      dockerfile: ProductWebApi/Dockerfile
+
+
+  orderwebapi:
+    image: ${DOCKER_REGISTRY-}orderwebapi
+    build:
+      context: .
+      dockerfile: OrderWebApi/Dockerfile
+

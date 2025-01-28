@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB101FF1-56B4-4B1D-97F7-0BC5347A18B4}|docker-compose.dcproj|c:\\users\\asus\\source\\repos\\microarchitect\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB101FF1-56B4-4B1D-97F7-0BC5347A18B4}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\orderwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|solutionrelative:orderwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\orderwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|solutionrelative:orderwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\orderwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|solutionrelative:orderwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\orderwebapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|solutionrelative:orderwebapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\orderwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033EC568-F2D8-4AC3-8C65-777E93AF1B27}|OrderWebApi\\OrderWebApi.csproj|solutionrelative:orderwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|solutionrelative:productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\productwebapi\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|solutionrelative:productwebapi\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|solutionrelative:productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\productwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|solutionrelative:productwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAFD6A2-3A02-4165-AEC5-7750A2BFF74C}|ProductWebApi\\ProductWebApi.csproj|solutionrelative:productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\customerwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\customerwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|c:\\users\\asus\\source\\repos\\microarchitect\\customerwebapi\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701B83BE-83C1-4EBD-9915-258F878CA5B9}|CustomerWebApi\\CustomerWebApi.csproj|solutionrelative:customerwebapi\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OrderWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Program.cs",
+              "RelativeToolTip": "OrderWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:41:17.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OrderWebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "OrderWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T22:01:25.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OrderWebApi\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "OrderWebApi\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:47:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderWebApi\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Models\\Order.cs",
+              "RelativeToolTip": "OrderWebApi\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:43:20.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderWebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\OrderWebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderWebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:41:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\Program.cs",
+              "RelativeToolTip": "ProductWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:22:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductWebApi\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductWebApi\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:34:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductWebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "ProductWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T21:30:26.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductWebApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\Models\\Product.cs",
+              "RelativeToolTip": "ProductWebApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:26:35.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductWebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\ProductWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductWebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:25:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "CustomerWebApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Dockerfile",
+              "RelativeToolTip": "CustomerWebApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T21:20:39.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-28T21:20:33.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerWebApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerWebApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:18:18.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerWebApi",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\CustomerWebApi.csproj",
+              "RelativeDocumentMoniker": "CustomerWebApi\\CustomerWebApi.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\CustomerWebApi.csproj",
+              "RelativeToolTip": "CustomerWebApi\\CustomerWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T21:16:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Program.cs",
+              "RelativeToolTip": "CustomerWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:15:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CustomerWebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "CustomerWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T21:14:29.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\appsettings.json",
+              "RelativeToolTip": "CustomerWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T21:14:26.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerWebApi\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\CustomerDbContext.cs",
+              "RelativeToolTip": "CustomerWebApi\\CustomerDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:13:52.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerWebApi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MicroArchitect\\CustomerWebApi\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerWebApi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:12:46.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
