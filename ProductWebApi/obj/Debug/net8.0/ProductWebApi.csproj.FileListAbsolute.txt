@@ -65,3 +65,4 @@ C:\Users\ASUS\source\repos\MicroArchitect\ProductWebApi\obj\Debug\net8.0\refint\
 C:\Users\ASUS\source\repos\MicroArchitect\ProductWebApi\obj\Debug\net8.0\ProductWebApi.pdb
 C:\Users\ASUS\source\repos\MicroArchitect\ProductWebApi\obj\Debug\net8.0\ProductWebApi.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\MicroArchitect\ProductWebApi\obj\Debug\net8.0\ref\ProductWebApi.dll
+C:\Users\ASUS\source\repos\MicroArchitect\ProductWebApi\obj\Debug\net8.0\ProductWebApi.sourcelink.json

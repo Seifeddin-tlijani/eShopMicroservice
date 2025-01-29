@@ -3,23 +3,24 @@ using System.ComponentModel.DataAnnotations;
 
 namespace CustomerWebApi.Models
 {
+    [Table("customer", Schema = "dbo")]
     public class Customer
     {
-    [Key]
-    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    [Column("product_id")]
-    public int ProductId { get; set; }
+        [Key] 
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int CustomerId { get; set; }
 
-    [Column("product_name")]
-    public string ProductName { get; set; }
+        [Required] 
+        [Column("CustomerName")] 
+        public string CustomerName { get; set; }
 
-    [Column("product_description")]
-    public string ProductDescription { get; set; }
+        [Required] 
+        [Column("MobileNumber")] 
+        public string MobileNumber { get; set; }
 
-    [Column("product_code")]
-    public string ProductCode { get; set; }
-
-    [Column("product_price")]
-    public string ProductPrice { get; set; }
-}
+        [Required] 
+        [EmailAddress] 
+        [Column("Email")]
+        public string Email { get; set; }
+    }
 }

@@ -170,3 +170,4 @@ C:\Users\ASUS\source\repos\MicroArchitect\CustomerWebApi\obj\Debug\net8.0\refint
 C:\Users\ASUS\source\repos\MicroArchitect\CustomerWebApi\obj\Debug\net8.0\CustomerWebApi.pdb
 C:\Users\ASUS\source\repos\MicroArchitect\CustomerWebApi\obj\Debug\net8.0\CustomerWebApi.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\MicroArchitect\CustomerWebApi\obj\Debug\net8.0\ref\CustomerWebApi.dll
+C:\Users\ASUS\source\repos\MicroArchitect\CustomerWebApi\obj\Debug\net8.0\CustomerWebApi.sourcelink.json
